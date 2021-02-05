@@ -1,7 +1,7 @@
 body {
     background: #000000;
     color: #ffffff;
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Times New Roman", sans-serif;
 }
 
 h1{
@@ -70,4 +70,5 @@ footer p{
     padding-top: 0px;
     padding-left: 0px;
 }
+
 
